@@ -41,7 +41,7 @@ setup(
     install_requires=[
         'puput==0.2',
         'django-blog-zinnia==0.15.2',
-        'lxml==4.6.2',
+        'lxml==4.9.1',
     ],
     url='http://github.com/APSL/zinnia-to-puput',
     author=get_author('zinnia2puput'),
